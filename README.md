@@ -21,7 +21,7 @@ Abre [http://localhost:5000]
 
 ### Projeto do Boocamp Inter Frontend Developer
 
-- Estudo do código e apredizado com React 
+- Estudo do código e aprendizado com React 
 - Não Finalizado
 - Nenhuma implementação realizada
 - Entregar 13/02/2022 ás 23h15m no Último dia do Bootcamp
